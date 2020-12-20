@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/govll7t9fo3dg999?svg=true)](https://ci.appveyor.com/project/abatsakidis/scanner-winforms)
+
 ## Description ##
 
 Simple scanner application that implements WIA (Windows Image Acquisition)
